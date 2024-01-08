@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HamidAmini-FE](https://github.com/HamidAmini-FE)
 
-- 💬 Ask me about **FrontENd**
+- 💬 Ask me about **Part-Languages and Tools**
 
 - 📫 How to reach me **hcjr2024@gmail.com**
 
